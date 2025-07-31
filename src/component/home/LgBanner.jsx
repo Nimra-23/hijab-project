@@ -1,5 +1,5 @@
 import React from 'react'
-import untitled from '../../assets/untitled-design.png'
+import untitled from '../../assets/Untitled-design.png'
 import hijab1 from '../../assets/hijab-1.jpg'
 
 
