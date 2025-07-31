@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Headerimg from '../../assets/Headerimg.jpg'
+import Headerimg from '../../assets/HeaderImg.jpg'
 import hijab from '../../assets/hijab.jpg'
 import hijab1 from '../../assets/hijab-1.jpg'
 import { Link } from 'react-router-dom';

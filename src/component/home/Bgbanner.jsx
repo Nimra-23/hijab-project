@@ -3,10 +3,11 @@ import banner from '../../assets/HeaderImg.jpg'
 import untitled from '../../assets/Untitled-design.png'
 import untitled2 from '../../assets/Untitled-design.2.jpg'
 
+
 const Bgbanner = () => {
 
   return (
-    <>
+    <>  
       <div className='lg:mt-[100px] lg:mb-[100px] relative md:my-[80px] mt-[30px]'>
         <img src={banner} alt="" className=' object-cover object-center  w-full  h-150' />
         <div className='flex-row-reverse absolute top-[50px]  gap-3'>
