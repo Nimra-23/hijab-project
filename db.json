@@ -1,0 +1,236 @@
+{
+  "comments": [
+    {
+      "id": "3",
+      "title": "camera",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPIfiGgUML8G3ZqsNLHfaCnZK3I5g4tJabQ&s",
+      "price": "9900",
+      "description": "ghknmnmkl",
+      "categor": ""
+    },
+    {
+      "title": " new laptop",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhrc-lfoLRIBkJfjUbg54bISTzMHanZgg1Q&s",
+      "price": "250000,00",
+      "id": "4"
+    },
+    {
+      "title": "photos",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKA1WI5tok0Ldn_o5m_c1iyJsT4BWgoq_UUg&s",
+      "price": "2000",
+      "description": "its an camera",
+      "id": "5"
+    },
+    {
+      "title": "car",
+      "image": "https://reliable-torte-ac2aab.netlify.app/",
+      "price": "200",
+      "description": "that is car",
+      "id": "XfvbpGj"
+    },
+    {
+      "title": "product6",
+      "image": "https://reliable-torte-ac2aab.netlify.app/",
+      "price": "200",
+      "discription": "78978678",
+      "id": "IZFghW1"
+    },
+    {
+      "title": " new laptop",
+      "image": "https://reliable-torte-ac2aab.netlify.app/",
+      "price": "250000,00",
+      "description": "yuiin",
+      "id": "hHlyKxD"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/114-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 500",
+      "category": "CashmereWool",
+      "color": "#ddb0c8",
+      "discription": "Drape yourself in the refined tones of Peach Salmon, where sophistication meets a touch of delicate allure. yourself in the plush comfort and subtle allure of our Peach Salmon Hijab, meticulously crafted to add a touch of sophistication to your ensemble.",
+      "tags": "Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, peach salmon, peach salmon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "2",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/79-680x920.jpg",
+      "title": "Chiffon Georgette Hijab / Dusty Pink",
+      "price": " 530",
+      "category": "Chiffon",
+      "color": "#d75780",
+       "discription": "Drape yourself in the refined tones of Peach Salmon, where sophistication meets a touch of delicate allure. yourself in the plush comfort and subtle allure of our Peach Salmon Hijab, meticulously crafted to add a touch of sophistication to your ensemble.",
+      "tags": "Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, peach salmon, peach salmon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "3",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/23-680x920.png",
+      "title": "Chiffon Georgette Hijab / Mehndi",
+      "price": " 600",
+      "product": "hot",
+      "color": "#756f24",
+      "category":"CategoryChiffon Georgette Hijab",
+      "discription": "Where tradition meets trend, Mehndi is the color of grace.Experience comfort and sophistication with our Mehndi Hijab, designed to add a touch of freshness and elegance to your ensemble.",
+      "tags": "Chiffon Hijabs, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, MehndiElegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "4",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/20-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 620",
+      "category": "Chiffon",
+      "color": "#b5e6bc",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "5",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/137-680x920.png",
+      "title": "Chiffon Georgette Hijab / Yellow Salmon",
+      "price": " 699",
+      "category": "CashmereWool",
+      "color": "#b68904",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "6",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/72-680x920.png",
+      "title": "Chiffon Georgette Hijab / Deep Maroon",
+      "price": " 530",
+      "category": "Chiffon",
+      "color": "#5b1d3b",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "7",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/140-680x920.png",
+      "title": "Chiffon Georgette Hijab / Orange Salmon",
+      "price": " 670",
+      "category": "CashmereWool",
+      "color": "#f2650f",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "8",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/94-680x920.jpg",
+      "title": "Chiffon Georgette Hijab / Pink Salmon",
+      "price": " 620",
+      "category": "Chiffon",
+      "color": "#ecabb3",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "9",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/105-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 699",
+      "category": "CashmereWool",
+      "color": "#d23938",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "10",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/56-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 530",
+      "category": "Chiffon",
+      "color": "#ffa4d5",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "11",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/123-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 670",
+      "category": "CashmereWool",
+      "color": "#334f88",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "12",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/21-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 620",
+      "category": "Chiffon",
+      "color": "#1d1d1d",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "13",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/79-680x920.jpg",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 530",
+      "category": "Chiffon",
+      "color": "#c0456d",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "14",
+      "image": "https://hijabpk.com/wp-content/uploads/2023/11/123-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 670",
+      "category": "CashmereWool",
+      "color": "#334f88",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "15",
+      "image": "https://hijabpk.com/wp-content/uploads/2024/01/173-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 530",
+      "category": "Chiffon",
+      "product": "hot",
+      "color": "#f20863",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "16",
+      "image": "https://hijabpk.com/wp-content/uploads/2024/01/162-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 670",
+      "category": "Chiffon",
+      "product": "hot",
+      "color": "#f09b01",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "17",
+      "image": "https://hijabpk.com/wp-content/uploads/2024/01/167-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 530",
+      "category": "Chiffon",
+      "product": "hot",
+      "color": "#c6ce25",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    },
+    {
+      "id": "18",
+      "image": "https://hijabpk.com/wp-content/uploads/2024/01/170-680x920.png",
+      "title": "Chiffon Georgette Hijab / Peach Salmon",
+      "price": " 530",
+      "category": "Chiffon",
+      "product": "hot",
+      "color": "#437160",
+      "discription": "Drape yourself in the luxurious allure of Deep Maroon, where timeless charm meets contemporary grace.Immerse yourself in the plush comfort and refined allure of our Deep Maroon Hijab, meticulously crafted to add an exquisite touch to your ensemble.",
+      "tags": "Chiffon Hijabs, Deep Maroon, Deep Maroon hijab, Elegant Headscarves, Graceful Attire, Hijab Essentials, Hijab Styles, hijabpk, Maroon, Maroon hijab, timelesselegance, Trendy Hijab Wraps, Women's Fashion Ensemble"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
